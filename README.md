@@ -1,4 +1,6 @@
 # AntoKara.me
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fantokara%2Fantokara.me.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fantokara%2Fantokara.me?ref=badge_shield)
+
 
 ## Requirements
 
@@ -32,3 +34,7 @@
 1. <http://airbnb.io/javascript/>
 1. <https://github.com/airbnb/javascript/tree/master/react>
 1. <https://stylelint.io/user-guide/rules/>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fantokara%2Fantokara.me.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fantokara%2Fantokara.me?ref=badge_large)
